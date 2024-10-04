@@ -1,0 +1,13 @@
+.div1 {
+  height: 30rem;
+  width: 30rem;
+  background-color: grey;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+.div2 {
+  height: 10rem;
+  width: 10rem;
+  background-color: black;
+}

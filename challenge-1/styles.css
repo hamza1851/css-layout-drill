@@ -1,0 +1,18 @@
+/* ---------Challenge 1--------*/
+body {
+  display: flex;
+  background-color: dodgerblue;
+  margin: 0;
+  padding: 0;
+}
+div {
+  background-color: grey;
+  height: 5rem;
+  width: 5rem;
+  margin-left: 0.5rem;
+}
+
+.div1 {
+  margin-right: auto;
+  margin-left: 0;
+}

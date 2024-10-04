@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+div {
+  height: 10rem;
+  width: 10rem;
+  background-color: black;
+}
+
+.div1 {
+  height: 20rem;
+  width: 40rem;
+  margin-top: 2rem;
+  background-color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

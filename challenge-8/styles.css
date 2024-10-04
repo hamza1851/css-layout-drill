@@ -1,0 +1,14 @@
+.div1 {
+  height: 30rem;
+  width: 30rem;
+  background-color: grey;
+  display: flex;
+  /* flex-direction: row-reverse; */
+  justify-content: end;
+}
+
+.div2 {
+  height: 10rem;
+  width: 10rem;
+  background-color: black;
+}

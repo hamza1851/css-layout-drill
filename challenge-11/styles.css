@@ -1,0 +1,22 @@
+.div1 {
+  height: 30rem;
+  width: 20rem;
+  background-color: red;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.div2 {
+  height: 15rem;
+  width: 15rem;
+  background-color: green;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.div3 {
+  height: 10rem;
+  width: 10rem;
+  background-color: blue;
+  margin: 0 0.5rem 0.5rem 0;
+}

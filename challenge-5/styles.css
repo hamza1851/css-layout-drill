@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+div {
+  background-color: black;
+  height: 10rem;
+  width: 10rem;
+}
+
+.div1 {
+  align-self: self-end;
+}
+.div2 {
+  align-self: center;
+}

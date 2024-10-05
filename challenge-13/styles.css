@@ -1,0 +1,49 @@
+div {
+  color: red;
+  height: 10rem;
+  width: 10rem;
+}
+
+div:nth-child(odd) {
+  background-color: black;
+}
+
+div:nth-child(even) {
+  background-color: grey;
+}
+
+/* .div2{
+    transform: translate(50%, -50%);
+}
+
+.div3{
+    transform: translate(100%, -100%);
+}
+
+.div4{
+    transform: translate(150%, -150%);
+}
+
+.div5{
+    transform: translate(200%, -200%);
+} */
+.div2 {
+  position: relative;
+  bottom: 5rem;
+  left: 5rem;
+}
+.div3 {
+  position: relative;
+  bottom: 10rem;
+  left: 10rem;
+}
+.div4 {
+  position: relative;
+  bottom: 15rem;
+  left: 15rem;
+}
+.div5 {
+  position: relative;
+  bottom: 20rem;
+  left: 20rem;
+}

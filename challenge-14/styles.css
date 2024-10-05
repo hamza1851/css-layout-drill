@@ -1,0 +1,17 @@
+.container {
+  width: 100vw;
+  display: flex;
+  justify-content: flex-end;
+}
+.div1 {
+  height: 20rem;
+  width: 20rem;
+  background-color: grey;
+  display: flex;
+  align-items: flex-end;
+}
+.div2 {
+  height: 10rem;
+  width: 10rem;
+  background-color: black;
+}

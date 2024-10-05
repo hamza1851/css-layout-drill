@@ -3,6 +3,7 @@ body {
 }
 .container {
   display: flex;
+  column-gap: 5rem;
 }
 
 .div1,
@@ -20,19 +21,14 @@ body {
 }
 
 .divContainer1 {
-  margin-right: 5rem;
   display: flex;
   flex-direction: column;
+  row-gap: 5rem;
 }
 
 .divContainer2 {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-}
-.div2 {
-  margin-top: 5rem;
-}
-.div3 {
-  margin-bottom: 5rem;
+  row-gap: 5rem;
 }
